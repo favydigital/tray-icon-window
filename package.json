@@ -1,8 +1,6 @@
 {
   "_from": "tray-icon-window",
-  "_id": "tray-icon-window@0.0.5",
-  "_inBundle": false,
-  "_integrity": "sha512-tLfoMLjafSFdQAJ/gB47zKdMv5lgtfuFNydCnbgmKuFwhpXV4kRRlMCm12DcDjKqbgqa2YftYpUBQjnjywZEGA==",
+  "_inBundle": false, 
   "_location": "/tray-icon-window",
   "_phantomChildren": {},
   "_requested": {
@@ -19,17 +17,10 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tray-icon-window/-/tray-icon-window-0.0.5.tgz",
-  "_shasum": "ec64bed2a55dc5acbe2c1a79a4d6df9f27be54b3",
-  "_spec": "tray-icon-window",
-  "_where": "E:\\Github\\template-tray-window",
-  "author": {
-    "name": "Seyyid Fatih KOÇ"
-  },
+  "author": "FavyTeam",
   "bugs": {
-    "url": "https://github.com/FavyTeam/tray-icon-window/issues"
+    "url": "https://github.com/favydigital/tray-icon-window/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "electron": "^3.0.10"
   },
@@ -38,7 +29,7 @@
   "files": [
     "src"
   ],
-  "homepage": "https://github.com/FavyTeam/tray-icon-window#readme",
+  "homepage": "https://github.com/favydigital/tray-icon-window#readme",
   "keywords": [
     "electron",
     "tray",
@@ -48,16 +39,16 @@
   ],
   "license": "MIT",
   "main": "src/index.js",
-  "name": "tray-icon-window",
+  "name": "@favyteam/tray-icon-window",
   "peerDependencies": {
     "electron": "^3.0.10"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FavyTeam/tray-icon-window.git"
+    "url": "git+https://github.com/favydigital/tray-icon-window.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.0.5"
+  "version": "0.1.2"
 }

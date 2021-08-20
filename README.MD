@@ -10,7 +10,7 @@ Electron Tray Window, basically places the window near the tray icon. While thes
 ## Install
 
 ```
-npm install tray-icon-window
+npm install @favyteam/tray-icon-window
 ```
 
 
