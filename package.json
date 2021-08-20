@@ -1,0 +1,63 @@
+{
+  "_from": "tray-icon-window",
+  "_id": "tray-icon-window@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-tLfoMLjafSFdQAJ/gB47zKdMv5lgtfuFNydCnbgmKuFwhpXV4kRRlMCm12DcDjKqbgqa2YftYpUBQjnjywZEGA==",
+  "_location": "/tray-icon-window",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "tray-icon-window",
+    "name": "tray-icon-window",
+    "escapedName": "tray-icon-window",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tray-icon-window/-/tray-icon-window-0.0.5.tgz",
+  "_shasum": "ec64bed2a55dc5acbe2c1a79a4d6df9f27be54b3",
+  "_spec": "tray-icon-window",
+  "_where": "E:\\Github\\template-tray-window",
+  "author": {
+    "name": "Seyyid Fatih KOÇ"
+  },
+  "bugs": {
+    "url": "https://github.com/FavyTeam/tray-icon-window/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "electron": "^3.0.10"
+  },
+  "deprecated": false,
+  "description": "A package for generate custom tray windows with Electron.js",
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/FavyTeam/tray-icon-window#readme",
+  "keywords": [
+    "electron",
+    "tray",
+    "window",
+    "popup",
+    "menu"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "tray-icon-window",
+  "peerDependencies": {
+    "electron": "^3.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FavyTeam/tray-icon-window.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.5"
+}
